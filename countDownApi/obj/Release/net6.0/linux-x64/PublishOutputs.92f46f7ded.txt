@@ -1,0 +1,4 @@
+C:\Users\mhfdt\source\repos\countDownApi\countDownApi\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\mhfdt\source\repos\countDownApi\countDownApi\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\mhfdt\source\repos\countDownApi\countDownApi\obj\Release\net6.0\linux-x64\PubTmp\Out\countDownApi.pdb
+C:\Users\mhfdt\source\repos\countDownApi\countDownApi\obj\Release\net6.0\linux-x64\PubTmp\Out\countDownApi

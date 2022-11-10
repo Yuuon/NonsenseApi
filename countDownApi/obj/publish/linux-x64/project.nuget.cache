@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrRzooXKVvCnbExutYsJqPQuvnndirWQZRnT7/R81N8Z37F9cVGbSjTekl76bs6KO07gB45s1X8CargAHjrvyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhfdt\\source\\repos\\countDownApi\\countDownApi\\countDownApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhfdt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.6\\microsoft.netcore.app.runtime.linux-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.6\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\mhfdt\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.6\\microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
